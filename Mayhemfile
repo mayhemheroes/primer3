@@ -1,5 +1,5 @@
-project: rnshah9/primer3
-target: primer3
+project: primer3
+target: primer3-core
 
 cmds:
   - cmd: /repo/src/primer3_core @@
