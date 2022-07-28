@@ -2,4 +2,4 @@ project: primer3
 target: primer3-core
 
 cmds:
-  - cmd: /repo/src/primer3_core @@
+  - cmd: /install/bin/primer3_core @@
