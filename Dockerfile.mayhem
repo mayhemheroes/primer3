@@ -10,4 +10,3 @@ RUN make install PREFIX=/install
 
 FROM ubuntu:22.04 as package
 COPY --from=builder /install /install
-COPY --from=builder /repo/src/primer3_core /
