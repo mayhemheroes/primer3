@@ -1,0 +1,5 @@
+project: primer3
+target: primer3-core
+
+cmds:
+  - cmd: /install/bin/primer3_core @@
